@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rtienpal
 - 👀 I’m interested in learning programming to work online in the future
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on programming in javascript
+- 🌱 I’m currently learning React.Js
+- 💞️ I’m looking to collaborate on programming in React
 - 📫 How to reach me rafaeluen@gmail.com
 
 <!---
