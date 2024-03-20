@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rtienpal
 - 👀 I’m interested in learning programming to work online in the future
-- 🌱 I’m currently learning Node.JS
+- 🌱 I’m currently working at Liferay in Recife, Brazil
 - 💞️ I’m looking to collaborate on programming in General
 - 📫 How to reach me rafaeluen@gmail.com
 
